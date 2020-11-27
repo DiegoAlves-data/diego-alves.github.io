@@ -1,14 +1,15 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Data Wrangling
 
-### CS224n: Natural Language Processing with Deep Learning
+### Sharkattack: a business opportunity
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+Would Brazil be a good market for selling devices that prevent shark attacks?
+The objective of this project is to base, based on structured data analysis, the possible decision-making of investors in a company that prevents shark attacks in Brazil
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![View Notebook on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/shark_attack_oportunities.ipynb)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
+**Data Base:** You can find this database at the following link ([Site] (https://www.sharkattackfile.net/) ). It will be used in the development of this project.
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
