@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Data Wrangling
+## Pandas, Data Cleaning and Manipulation
 
 ### Sharkattack: a business opportunity
 
@@ -16,18 +16,20 @@ The objective of this project is to base, based on structured data analysis, the
 <center><img src="images/Screen Shot 2020-11-27 at 13.13.05 PM.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Web Scraping: downloading the database of Brazilian NGOs
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Brazilian_ONGs_Data_Scrapping.ipynb)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">Project executed from the web scrapping libraries: requests and beautiful soup.
+The challenge was to go through more than 20 thousand pages in order to download HTML data from more than 20 thousand Brazilian NGOs.
+The data were all structured and stored in a Data Set to be later used for various purposes. Scraped Site: http://www.ongsbrasil.com.br/</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/Screen Shot 2020-11-27 at 17.48.29 PM.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Brazilian_ONGs_Data_Scrapping.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
 
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
@@ -92,6 +94,7 @@ The objective of this project is to base, based on structured data analysis, the
 <center><img src="images/bac2018.JPG"/></center>
 <br>
 
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 ---
 ## Filmed by me
 
