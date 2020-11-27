@@ -24,6 +24,7 @@ The objective of this project is to base, based on structured data analysis, the
 The challenge was to go through more than 20 thousand pages in order to download HTML data from more than 20 thousand Brazilian NGOs.
 The data were all structured and stored in a Data Set to be later used for various purposes. Scraped Site: http://www.ongsbrasil.com.br/</div>
 
+
 <center><img src="images/Screen Shot 2020-11-27 at 17.48.29 PM.png"/></center>
 
 ---
