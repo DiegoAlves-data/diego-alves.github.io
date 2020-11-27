@@ -11,9 +11,9 @@ The objective of this project is to base, based on structured data analysis, the
 
 **Data Base:** You can find this database at the following link ([Site] (https://www.sharkattackfile.net/) ). It will be used in the development of this project.
 
-**Project PPT - Presentation:** To help present the project to potential investors, a PPT was created and you can view it at the link below: ([GitHub](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Challenge%2001%20-%20Iron%20Hack.pdf)).
+**Project PPT - Presentation:** To help present the project to potential investors, a PPT was created and you can view it at the link below: [![View Notebook on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Challenge%2001%20-%20Iron%20Hack.pdf).
 
-<center><img src="Screen Shot 2020-11-27 at 13.13.05 PM.png"/></center>
+<center><img src="images/Screen Shot 2020-11-27 at 13.13.05 PM.png"/></center>
 
 ---
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
