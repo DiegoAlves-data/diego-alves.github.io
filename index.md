@@ -28,14 +28,13 @@ The data were all structured and stored in a Data Set to be later used for vario
 <center><img src="images/Screen Shot 2020-11-27 at 17.48.29 PM.png"/></center>
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Machine Learning Study for Marketing Convertions Ads Campaigns
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/DiegoAlves-data/DiegoAlves-data/blob/master/Brazilian_ONGs_Data_Scrapping.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/15_kf4NkpqCW8gvNEhy-90edtHLrMo5Mw?usp=sharing)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">The objective was to understand, through a Linear Regression algorithm, what is the relationship between the variables: ad clicks and paid amount in the ad, to understand the influence on the number of purchases. The database was downloaded from Kaggle and has its origin in a Facebook ads campaign.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/facebook.jpeg"></center>
 <br>
 
 ---
