@@ -34,7 +34,7 @@ The data were all structured and stored in a Data Set to be later used for vario
 
 <div style="text-align: justify">The objective was to understand, through a Linear Regression algorithm, what is the relationship between the variables: ad clicks and paid amount in the ad, to understand the influence on the number of purchases. The database was downloaded from Kaggle and has its origin in a Facebook ads campaign.</div>
 <br>
-<center><img src="images/facebook.jpeg"></center>
+<center><img src="images/facebook.jpg"></center>
 <br>
 
 ---
